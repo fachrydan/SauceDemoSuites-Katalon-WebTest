@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GetText_Footer SauceDemo</name>
+   <tag></tag>
+   <elementGuidId>9d587e60-3570-4bc2-b144-036a0072b653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page_wrapper']/footer/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.footer_copy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c13871c8-77db-4706-a7dc-528d5f4e3229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer_copy</value>
+      <webElementGuid>074317b1-ff47-4369-aa4d-0c48fbed4db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>© 2023 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy</value>
+      <webElementGuid>2d13469c-99d3-4c2e-953b-dba7b49bb820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_wrapper&quot;)/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer_copy&quot;]</value>
+      <webElementGuid>f1aa7c64-5403-48cc-ab40-9d20ebdd9ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page_wrapper']/footer/div</value>
+      <webElementGuid>6791ac19-75ee-433b-a9a7-15cbdfaeb62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/following::div[1]</value>
+      <webElementGuid>a464aed6-a76a-4025-a80c-b8ce59e18808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::div[1]</value>
+      <webElementGuid>46c537f2-f90b-4b7e-8a58-8f458aabba13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[1]</value>
+      <webElementGuid>4c9b277f-46ff-46fb-a334-0fb41b693575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[1]</value>
+      <webElementGuid>aeec0513-6145-437f-affd-215ad1b7e923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='©']/parent::*</value>
+      <webElementGuid>d3a0c908-cd9c-47bf-812e-bc5c389b5970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div</value>
+      <webElementGuid>25243343-5a08-4018-a61b-59fe42d726b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '© 2023 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy' or . = '© 2023 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy')]</value>
+      <webElementGuid>691eba99-20c7-4e4c-9866-1ff2dc754aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
